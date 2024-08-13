@@ -1,0 +1,39 @@
+body {
+  background-color: #e0e0e0;
+  color: #333;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+header, footer {
+  background-color: #333;
+  color: #f0f0f0;
+  padding: 10px;
+  text-align: center;
+}
+
+.large-text {
+  font-size: 1.2em;
+}
+
+#special-font {
+  font-family: 'Source Code Pro', monospace;
+}
+
+.highlight {
+  background-color: #ccc;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+aside img {
+  max-width: 100%;
+  height: auto;
+}
